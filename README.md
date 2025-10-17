@@ -6,7 +6,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/ZnY3x6d1os4AAAAC/goku-ssj4.gif" width="100%" alt="SSJ4 Goku Power Up GIF"/>
+  <img src="https://media.tenor.com/YNqv9y5b1yAAAAAd/black-master-ssj4.gif" width="100%" alt="Black Master SSJ4 Goku GIF"/>
+
 
 </div>
 
