@@ -6,7 +6,8 @@
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWEzdTNtdGc0YXBzeGF1MG14ZHVkNjd1ZGFpaHhjZ2N2dXJmcGNiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5dASMYs4LIFa/giphy.gif" width="100%" alt="SSJ4 Goku Power Up GIF"/>
+  <img src="https://media.tenor.com/ZnY3x6d1os4AAAAC/goku-ssj4.gif" width="100%" alt="SSJ4 Goku Power Up GIF"/>
+
 </div>
 
 ---
