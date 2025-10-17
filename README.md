@@ -120,8 +120,7 @@ I’m currently seeking opportunities to collaborate, learn, and contribute to o
 Open to collaborations, internships, and innovative discussions!  
 Let’s build something awesome together. Reach out via [LinkedIn](https://linkedin.com/in/rajat-pandey-58a949257) or [Email](mailto:pandrajat123@gmail.com).
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlazehue&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Blazehue&color=blueviolet&style=flat-square)
 ---
 
 > 🐉 *Profile README proudly crafted and maintained by **Rajat Pandey (Blazehue)** — Last updated on October 17 2025.*
