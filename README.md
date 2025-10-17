@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Blazehue/Blazehue/blob/main/assets/ssj4goku.gif?raw=true" width="100%" alt="SSJ4 Goku Power Up GIF"/>
+  <img src="https://github.com/Blazehue/Blazehue/blob/main/ssj4goku.gif?raw=true" width="100%" alt="SSJ4 Goku">
 </div>
 
 
