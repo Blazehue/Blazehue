@@ -6,10 +6,9 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/YNqv9y5b1yAAAAAd/black-master-ssj4.gif" width="100%" alt="Black Master SSJ4 Goku GIF"/>
-
-
+  <img src="https://github.com/Blazehue/Blazehue/blob/main/assets/ssj4goku.gif?raw=true" width="100%" alt="SSJ4 Goku Power Up GIF"/>
 </div>
+
 
 ---
 
