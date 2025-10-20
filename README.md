@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/ssj4goku.gif" width="50%" alt="SSJ4 Goku">
+  <img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/city.gif" width="50%" alt="city">
 </div>
 
 
