@@ -1,218 +1,247 @@
-# 👋 Hi, I'm Rajat Pandey (Blazehue)!
-
-<img src="https://komarev.com/ghpvc/?username=Blazehue&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=Full-Stack+Web+Developer;UI%2FUX+Designer+%26+Creative+Coder;Building+digital+experiences;Always+learning%2C+always+creating)](https://git.io/typing-svg)
-
-I'm a Computer Science and Engineering student at **SRM Institute of Science and Technology, Chennai**, passionate about crafting meaningful digital experiences that blend technology with creativity.
-
-From designing sleek interfaces to building full-stack applications, I thrive on turning ideas into reality. When I'm not pushing commits, you'll find me exploring 3D art, creating animations, or jamming on the guitar 🎸.
-
-Breaking things in production and fixing them before anyone notices? That's my cardio. Merging creativity with code? That's my passion.
-
----
-
-## 🧠 About Me
-
-- 💻 Specializing in **Full-Stack Web Development** with **React**, **Next.js**, and **Node.js**
-- 🎨 Crafting intuitive user experiences with **Figma**, **Framer**, and modern design principles
-- 🗄️ Building scalable backends with **Supabase**, **PostgreSQL**, and **MongoDB**
-- 🎬 Creating visual stories through **Blender**, **After Effects**, and **3D animation**
-- 🚀 Expanding my **Data Structures & Algorithms** knowledge daily
-- 🔧 Experimenting with **game physics** and **browser-based interaction systems**
-- 🌐 Open to collaborations, internships, and innovative projects
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blazehue&theme=react">
+# 🌊 Welcome to My Digital Universe
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Blazehue&theme=react&hide_border=true&include_all_commits=true&count_private=true">
-<img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=Blazehue&theme=react&hide_border=true">
+<img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/city.gif" width="60%" alt="city animation">
 
-<img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Blazehue&hide=HTML,css&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="top langs" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blazehue&theme=react">
+### I'm Rajat Pandey • aka **Blazehue** 🐉
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+Creative+Coder;Turning+caffeine+into+code+since+forever+%E2%98%95;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Blazehue&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
 
 </div>
 
+---
+
+## 🎭 The Story Behind The Screen
+
+```javascript
+const rajat = {
+    location: "Chennai, India 🇮🇳",
+    education: "SRM Institute of Science & Technology",
+    major: "Computer Science & Engineering",
+    currentlyLearning: ["PostGIS", "Game Physics", "Advanced DSA"],
+    askMeAbout: ["Web Dev", "UI/UX", "3D Art", "Music Production"],
+    funFact: "I debug with console.log() and I'm not ashamed 😎",
+    lifePhilosophy: "Code with purpose, design with passion"
+};
+```
+
+<details>
+<summary>📖 More about me...</summary>
 <br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Blazehue&bg_color=20232a&color=61dafb&line=61dafb&point=ff5722&area=true&area_color=282c34&hide_border=true"/>
-</p>
+I'm not just a developer—I'm a **digital craftsman** who believes that great code and great design should dance together. By day, I architect web applications that users love. By night, I'm jamming on my guitar 🎸, sculpting in Blender, or falling down 3D animation rabbit holes.
+
+**What drives me?** The intersection of technology and creativity. Whether it's building a sleek dashboard with React, designing an intuitive user flow in Figma, or animating a character in After Effects, I'm all about creating experiences that make people go "Whoa, that's cool!"
+
+Currently on a mission to master the full stack while keeping that creative spark alive. Always learning, always building, always shipping.
+
+</details>
 
 ---
 
-## 🌟 Open Source & Community
+## 🛠️ Arsenal of Tools
 
-- 🔥 Actively contributing to open-source projects
-- 💡 Building tools that solve real-world problems
-- 🤝 Open to collaboration on innovative web applications
-- 📚 Sharing knowledge through clean, documented code
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🎨 Frontend Wizardry
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎨 Design & Creative Suite
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Analytics
 
-### 🚀 Languages & Frameworks
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Blazehue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Blazehue&theme=tokyonight&hide_border=true" />
 
-### 🌐 Web Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazehue&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blazehue&theme=tokyonight&utcOffset=5.5" />
 
-### 🗄️ Databases & Backend
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-### 🎨 Design & Creative Tools
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_aftereffects/adobe_aftereffects-icon.svg" alt="After Effects" width="40" height="40"/>
-  </a>
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+### 📈 Contribution Graph
+[![Blazehue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blazehue&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Blazehue)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 Highlighted Work
+<table>
+<tr>
+<td width="50%">
 
-1. **[UniVoice](https://github.com/Blazehue/UniVoice)** – University communication platform connecting students and faculty
-2. **[TaskMasterV1](https://github.com/Blazehue/TaskMasterV1)** – Full-stack task management application with real-time updates
-3. **[XENO](https://github.com/Blazehue/XENO)** – Experimental web innovation platform pushing boundaries
-4. **[Dusk-calc-zen](https://github.com/Blazehue/Dusk-calc-zen)** – Uniquely designed calculator with smooth animations
-5. **[PersonalPortfolioV1](https://github.com/Blazehue/PersonalPortfolioV1)** – Interactive portfolio showcasing my work
+### 🎤 UniVoice
+**University Communication Hub**
 
-📂 Explore all **19 repositories** [here →](https://github.com/Blazehue?tab=repositories)
+A platform connecting students and faculty with real-time messaging and collaborative features.
+
+`Tech: React` `Node.js` `PostgreSQL` `Socket.io`
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Blazehue/UniVoice)
+
+</td>
+<td width="50%">
+
+### ✅ TaskMasterV1
+**Smart Task Manager**
+
+Full-stack task management with intuitive UI and real-time updates for productivity.
+
+`Tech: Next.js` `Supabase` `TailwindCSS`
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Blazehue/TaskMasterV1)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌟 XENO
+**Experimental Innovation Platform**
+
+Pushing web boundaries with cutting-edge tech and creative interactions.
+
+`Tech: React` `Three.js` `Express`
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Blazehue/XENO)
+
+</td>
+<td width="50%">
+
+### 🌙 Dusk-calc-zen
+**Aesthetic Calculator**
+
+Beautiful calculator with smooth animations and zen design philosophy.
+
+`Tech: JavaScript` `CSS3` `HTML5`
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Blazehue/Dusk-calc-zen)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📂 [View All 19 Repositories →](https://github.com/Blazehue?tab=repositories)
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Mission
 
-- 🔧 Building scalable applications with **Supabase** and **PostGIS**
-- 🧠 Solving daily **Data Structures & Algorithms** challenges
-- 💡 Exploring **game physics** and **interactive browser systems**
-- 🎨 Creating immersive **3D experiences** with Three.js and Blender
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.learning = [
+            "Advanced PostGIS for location-based features",
+            "Game physics & interactive systems",
+            "System design patterns at scale"
+        ]
+        
+        self.building = [
+            "Full-stack apps with Supabase",
+            "3D web experiences with Three.js",
+            "Daily DSA problem solving"
+        ]
+        
+        self.goals = {
+            "short_term": "Contribute to major open-source projects",
+            "long_term": "Build products that impact millions"
+        }
+    
+    def get_availability(self):
+        return "Open for internships & collaborations! 🚀"
 
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/rajat-pandey-58a949257" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/zeber356" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/31117881" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
-  </a>
-  <a href="mailto:pandrajat123@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=Code+with+purpose%2C;Design+with+passion%2C;Build+with+intention%2C;Create+with+courage." alt="Typing SVG" />
-</p>
+focus = CurrentFocus()
+print(focus.get_availability())
+```
 
 ---
 
-<p align="center">
-  <i>Open to collaborations • Available for internships • Let's build something amazing together! 🚀</i>
-</p>
+## 🌐 Let's Connect!
 
-> 🐉 *Profile README crafted with passion by **Rajat Pandey (Blazehue)** — Last updated October 2025*
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-pandey-58a949257)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeber356)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Ask-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31117881)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandrajat123@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+### 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-blazehue.vercel.app/api/spotify)](https://open.spotify.com/user/31l6jzx6zo5ztqivdlnpt5xkfmji)
+
+---
+
+### ⚡ Quick Facts
+
+🎸 **Musician** • 🎨 **Digital Artist** • 🎮 **Game Physics Enthusiast**
+
+💼 **Open for:** Internships | Collaborations | Freelance Projects
+
+🌱 **Currently Mastering:** Advanced React Patterns | PostGIS | WebGL
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+forever+coding+%E2%9C%A8" alt="Typing SVG" />
+
+---
+
+<sub>🐉 Crafted with passion by **Blazehue** • Last updated October 2025</sub>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
