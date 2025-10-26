@@ -7,7 +7,7 @@
 ### 🎧 Favorite Track
 
 <a href="https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK">
-  <img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/feel-it-still.jpg" alt="Feel It Still - Portugal. The Man" width="400">
+  <img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/feel-it-still.png" alt="Feel It Still - Portugal. The Man" width="400">
 </a>
 
 **[Feel It Still - Portugal. The Man](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK)** 🔥
