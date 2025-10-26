@@ -4,13 +4,13 @@
 
 <img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/city.gif" width="60%" alt="city animation">
 
-### 🎵 Currently Vibing To
+### 🎧 Favorite Track
 
 <a href="https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l6jzx6zo5ztqivdlnpt5xkfmji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400">
+  <img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/feel-it-still.jpg" alt="Feel It Still - Portugal. The Man" width="400">
 </a>
 
-**🎧 Favorite Track:** [Feel It Still - Portugal. The Man](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK)
+**[Feel It Still - Portugal. The Man](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK)** 🔥
 
 ---
 
