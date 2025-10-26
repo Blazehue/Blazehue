@@ -4,6 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/Blazehue/Blazehue/main/city.gif" width="60%" alt="city animation">
 
+### 🎵 Currently Vibing To
+
+<a href="https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK">
+  <img src="https://spotify-github-readme.vercel.app/api/track?id=6QgjcU0zLnzq5OrUoSZ3OK&theme=dark" alt="Feel It Still - Portugal. The Man" width="400">
+</a>
+
+---
+
 ### I'm Rajat Pandey • aka **Blazehue** 🐉
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+Creative+Coder;Turning+caffeine+into+code+since+forever+%E2%98%95;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -220,7 +228,7 @@ print(focus.get_availability())
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-### 🎵 Currently Vibing To
+### 🎵 Live Spotify Activity
 
 [![Spotify](https://novatorem-blazehue.vercel.app/api/spotify)](https://open.spotify.com/user/31l6jzx6zo5ztqivdlnpt5xkfmji)
 
