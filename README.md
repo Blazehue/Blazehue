@@ -230,11 +230,7 @@ print(focus.get_availability())
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-### 🎵 Live Spotify Activity
 
-[![Spotify](https://novatorem-blazehue.vercel.app/api/spotify)](https://open.spotify.com/user/31l6jzx6zo5ztqivdlnpt5xkfmji)
-
----
 
 ### ⚡ Quick Facts
 
